@@ -1,0 +1,6 @@
+C:\Proyectos\CSharp\HelloGit\HelloGit\bin\Debug\HelloGit.exe.config
+C:\Proyectos\CSharp\HelloGit\HelloGit\bin\Debug\HelloGit.exe
+C:\Proyectos\CSharp\HelloGit\HelloGit\bin\Debug\HelloGit.pdb
+C:\Proyectos\CSharp\HelloGit\HelloGit\obj\Debug\HelloGit.csprojResolveAssemblyReference.cache
+C:\Proyectos\CSharp\HelloGit\HelloGit\obj\Debug\HelloGit.exe
+C:\Proyectos\CSharp\HelloGit\HelloGit\obj\Debug\HelloGit.pdb
